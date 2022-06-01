@@ -1,0 +1,23 @@
+body{
+  background-color: lightgray;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+#gameText{
+  padding: 20px;
+}
+
+.gameBtn{
+  width: 130px;
+  height: 70px;
+  font-size: 25px;
+  font-family: Helvetica;
+  text-align: center;
+  cursor: pointer;
+  border: 2px solid;
+}
+
+.gameBtn:active{
+  background-color: gray;
+}
